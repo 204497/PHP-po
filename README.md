@@ -27,7 +27,7 @@
 <h2>Welke keuzes heb je gemaakt?</h2>
 <p><b>a. Waarom hebben jullie dit onderwerp gekozen?</b>
 <br>Gezamelijk:
-<br>b. Noem één belangrijke ontwerpkeuze en leg uit waarom je die hebt gemaakt.
+<br><b>b. Noem één belangrijke ontwerpkeuze en leg uit waarom je die hebt gemaakt.</b>
 <br>Sam:
 <br>Fynn:
 <br>Vincent:
@@ -38,7 +38,7 @@
 <br>Sam:
 <br>Fynn:
 <br>Vincent:
-<br><b> b. Wat zou je anders doen bij een volgend project?</b>
+<br><b>b. Wat zou je anders doen bij een volgend project?</b>
 <br>Sam: 
 <br>Fynn:
 <br>Vincent:
