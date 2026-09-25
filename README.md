@@ -1,5 +1,6 @@
   # PHP-po
-  Dit PO wordt gemaakt door Fynn Gosewinkel, Sam Leegwater en Vincent Wang over het nog onbekende iets.
+    Voor dit project maken wij samen een fastfood-webapplicatie met HTML, CSS, PHP en een MariaDB/MySQL-database.
+We volgen de voorstel opdracht die op informaticabaas staat, maar zullen onze eigen creativiteit toepassen op deze opdracht. De app ondersteunt verschillende gebruikersrollen, zoals: klant, restaurantmedewerker, bezorger, restaurantmanager en chef keuken. Iedere rol heeft natuurlijk verschillende mogelijkheden in deze app. Wij zullen werken met user stories zoals er was aangegeven in de opdrachtomschrijving, om te bepalen welke functies de gebruikers nodig hebben. Een deel wordt uitgevoerd in de eerste fase van het PO voor de herfstvakantie.
     
  <h1>Eisen reflectie</h1>
 <h2>Wat heb je geleerd?</h2>
